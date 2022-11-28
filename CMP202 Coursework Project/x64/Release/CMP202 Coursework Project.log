@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Work Mode\Desktop\Uni\Year 2\Term 2\CMP202 data structures 2\CMP202 Coursework Project\CMP202 Coursework Project\main.cpp(174,20): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  2 of 641 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CMP202 Coursework Project.vcxproj -> C:\Users\Work Mode\Desktop\Uni\Year 2\Term 2\CMP202 data structures 2\CMP202 Coursework Project\x64\Release\CMP202 Coursework Project.exe
