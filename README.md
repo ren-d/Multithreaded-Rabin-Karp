@@ -7,7 +7,7 @@
 
 ## Parallel structure of the code
 - Started a main thread to then create multiple threads splitting the searching work across them to join them together at the end (Known as the Fork-Join method) the joining occurs once all the text has been searched through and the matches can be shown.
-- There is also a Producer-Consumer Relationship between multiple threads which is explained in further slides
+- There is also a Producer-Consumer Relationship between multiple threads.
 - Across each thread as well as the Rabin Karp class mutexes were used in order to ensure that the same text wasn’t being searched through more than once or multiple matches weren’t incorrectly counted.
 
 ## Conclusion
